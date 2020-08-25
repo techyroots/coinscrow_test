@@ -1,0 +1,153 @@
+/* Products Division */
+
+.card {
+    border: none;
+    padding: 10px;
+    padding-left: 15px;
+}
+
+.card:hover {
+    border: 1px solid whitesmoke;
+    background-color: white;
+}
+
+.btn-cart {
+    margin-top: 3px;
+    background-color: black;
+    color: white;
+}
+
+.btn-view {
+    margin-top: 3px;
+    background-color: #f37121;
+    color: white;
+    margin-left: 5px;
+}
+
+.card-body {
+    padding: 1px;
+}
+
+.card-title {
+    color: black;
+    font-weight: 700;
+}
+
+.product-price {
+    color: #f37121;
+    font-weight: 600;
+}
+
+.product-preprice {
+    color: rgb(192, 191, 191);
+    margin-left: 3px;
+}
+
+.product-discount {
+    color: black;
+    font-weight: 600;
+    margin-left: 3px;
+}
+
+.checked {
+    color: orange;
+}
+
+.badge {
+    position: relative;
+    top: 10px;
+}
+
+.viewAllLink {
+    width: 100%;
+    position: relative;
+    border-bottom: 2px solid black;
+    padding-bottom: 4px;
+}
+
+.viewAllLink a:hover {
+    outline: none;
+    text-decoration: none;
+}
+
+.viewAllLink a {
+    position: absolute;
+    right: 0px;
+    color: #f37121;
+}
+
+.viewAllLink span {
+    color: black;
+    font-weight: 700;
+    padding-bottom: 2px;
+    border-bottom: 2px solid #f37121;
+}
+
+.btn-cart:hover {
+    color: rgb(230, 224, 224);
+}
+
+.btn-view:hover {
+    color: rgb(230, 224, 224);
+}
+
+
+/* Footer */
+
+.footer {
+    background-color: black;
+}
+
+.footer h6 {
+    margin-top: 15px;
+    color: white;
+}
+
+.footer h2 {
+    color: white;
+}
+
+.footer h4 {
+    color: white;
+}
+
+.footer h4 span {
+    padding-bottom: 4px;
+    border-bottom: 2px solid #f37121;
+}
+
+.Shape {
+    overflow: visible;
+    position: absolute;
+    width: 20px;
+    height: 24px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Shape {
+    fill: rgba(255, 125, 74, 1);
+}
+
+.Shape_i {
+    overflow: visible;
+    position: absolute;
+    width: 21.888px;
+    height: 21.927px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Shape_i {
+    fill: rgba(255, 125, 74, 1);
+}
+
+.Shape_ja {
+    overflow: visible;
+    position: absolute;
+    width: 22px;
+    height: 18px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Shape_ja {
+    fill: rgba(255, 125, 74, 1);
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="201" height="46" viewBox="0 0 201 46">
+  <g id="Group_5" data-name="Group 5" transform="translate(-375 -26)">
+    <g id="Group_4" data-name="Group 4">
+      <path id="Rectangle_2" data-name="Rectangle 2" d="M0,0H16A20,20,0,0,1,36,20V36a0,0,0,0,1,0,0H20A20,20,0,0,1,0,16V0A0,0,0,0,1,0,0Z" transform="translate(375 36)" fill="#34346d"/>
+      <path id="Rectangle_3" data-name="Rectangle 3" d="M0,0H16A20,20,0,0,1,36,20V36a0,0,0,0,1,0,0H20A20,20,0,0,1,0,16V0A0,0,0,0,1,0,0Z" transform="translate(385 26)" fill="#ff7d4a"/>
+    </g>
+    <text id="LOGOHERE" transform="translate(439 57)" fill="#34346d" font-size="23" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">LOGO</tspan><tspan y="0" fill="#ff7d4a">HERE</tspan></text>
+  </g>
+</svg>
